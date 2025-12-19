@@ -30,7 +30,7 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 * **Key Insight:** I hypothetically walked through all Western Europe and some of the East, concluding in almost 4 Million steps and 3.5k Km.
 * **Tools:** Excel, SQL, Tableau.
 
-#### 📈 [Project 2: Human Resources Dashboard](https://barkazir.wixsite.com/mysite/project-supermarket-dashboard)
+#### 📈 [Project 2: Human Resources Dashboard](https://barkazir.wixsite.com/mysite/project-hr-dashboard)
 * Created an HR dashboard and analyzed data from SQL extraction to a dynamic Tableau dashboard.*
 * **Key Insight:** It's really easy to control employees data like years in company, age groups, average monthly income and even job satisfaction.
 * **Tools:** SQL, Tableau, ETL processes.
