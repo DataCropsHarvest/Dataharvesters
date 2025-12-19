@@ -11,14 +11,15 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,excel,tableu,powerbi,pandas,numpy,ai,discord,git&perline=12" />
-  </a>
-</p>
+### 🛠 Tech Stack & Tools
 
-> **Note:** For specialized tools like Gemini, ChatGPT, and NotebookLM (which don't always have standard icons in all libraries), I've included a general **AI** icon to represent your proficiency in LLM-driven analysis.z
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
+| **Data Tools** | Excel (Advanced), Jupyter Notebooks, Git |
+| **Product Analysis** | A/B Testing, Funnel Analysis, Retention Modeling |
+
 ---
 
 ### 🚀 Featured Projects
