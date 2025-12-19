@@ -25,14 +25,14 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 
 ### 🚀 Featured Projects
 
-#### 📊 [Project Name 1: Customer Churn Analysis](https://your-link-here.com)
-*Analyzed a dataset of 10k+ customers to identify key churn drivers using Python and SQL.*
-* **Key Insight:** Reduced churn hypothesis by 15% through segment-specific targeting.
-* **Tools:** Python, Scikit-learn, Tableau.
+#### 📊 [Project 1: My Year in Steps]([https://your-link-here.com](https://barkazir.wixsite.com/mysite/copy-of-tsunami))
+* Analyzed a dataset I took out of my Garmin watch.*
+* **Key Insight:** I hypothetically walked through all Western Europe and some of the East, concluding in almost 4 Million steps and 3.5k Km.
+* **Tools:** Excel, SQL, Tableau.
 
-#### 📈 [Project Name 2: E-commerce Sales Dashboard](https://your-link-here.com)
-*Created an automated end-to-end pipeline from SQL extraction to a dynamic Tableau dashboard.*
-* **Key Insight:** Identified a 20% drop in conversion rates during specific checkout steps.
+#### 📈 [Project 2: Human Resources Dashboard](https://[your-link-here.com](https://barkazir.wixsite.com/mysite/project-supermarket-dashboard))
+* Created an HR dashboard and analyzed data from SQL extraction to a dynamic Tableau dashboard.*
+* **Key Insight:** It's really easy to control employees data like years in company, age groups, average monthly income and even job satisfaction.
 * **Tools:** SQL, Tableau, ETL processes.
 
 ---
